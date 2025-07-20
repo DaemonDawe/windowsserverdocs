@@ -11,8 +11,7 @@ ms.topic: article
 author: coreyp-at-msft
 ms.author: coreyp
 manager: dongill
-ms.date: 10/12/2016
----
+ms.date: 10/12/201
 # How to Configure Protected Accounts
 
 >Applies To: Windows Server (Semi-Annual Channel), Windows Server 2016
